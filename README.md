@@ -24,17 +24,7 @@ I thrive at the intersection of backend and frontend, crafting seamless experien
 - **Frontend:** React, React Native, JavaScript
 - **Backend:** Node.js, Express, SQL, MongoDB
 - **Cloud & DevOps:** AWS
-- **Other:** TypeScript, REST APIs
-
----
-
-### 🌟 Featured Projects
-
-- [JobConnect](https://github.com/Robert-kent-prog/JobConnect): Your gateway to efficient job matching.
-- [Leave Flow PWA](https://github.com/Robert-kent-prog/leave-flow-pwa): Modern leave management progressive web app.
-- [BalozyApp](https://github.com/Robert-kent-prog/BalozyApp): Community-focused solutions.
-- [Most Committed Repos](https://github.com/Robert-kent-prog?tab=repositories&q=&type=source&sort=stargazers): Check out my most active projects!
-
+- **Other:** TypeScript, REST API
 ---
 
 ### 📫 Connect With Me
